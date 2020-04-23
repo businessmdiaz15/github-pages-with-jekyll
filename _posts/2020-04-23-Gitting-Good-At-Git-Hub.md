@@ -1,6 +1,6 @@
 ---
 title: "Hire Miguel Diaz"
-date: 2020/04/23
+date: 2020-04-23
 ---
 
 Did you know? 
